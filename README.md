@@ -39,11 +39,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vipin10100001/vipin10100001/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/vipin10100001/vipin10100001/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
