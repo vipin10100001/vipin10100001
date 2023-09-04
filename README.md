@@ -1,4 +1,4 @@
-v<h2 align="left">Hi 👋! Myself N.VIPIN PRASAD who loves DSA,Web Dev, Upcoming Full Stack Developer and loves to solve problems.</h2>
+<h2 align="left">Hi 👋! Myself N.VIPIN PRASAD who loves DSA,Web Dev, Upcoming Full Stack Developer and loves to solve problems.</h2>
 
 ###
 
@@ -31,18 +31,6 @@ v<h2 align="left">Hi 👋! Myself N.VIPIN PRASAD who loves DSA,Web Dev, Upcoming
   <a href="https://www.hackerrank.com/vipinprasad10101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vipin10100001/vipin10100001/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vipin10100001/count.svg?"  />
 </div>
 
 ###
