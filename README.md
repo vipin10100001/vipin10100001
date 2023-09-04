@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is N.VIPIN PRASAD and I'm a Final Year Student and also a Upcoming Full Stack Web Developer and also a Coder.</h1>
+<h1 align="left">Hi 👋! My name is N.VIPIN PRASAD and I'm a Final Year Student and a Upcoming Full Stack Web Developer,also Likes DSA and solve problems. </h1>
 
 ###
 
