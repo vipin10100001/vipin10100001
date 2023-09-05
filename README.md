@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Myself N.VIPIN PRASAD who loves DSA,Web Dev, Upcoming Full Stack Developer and loves to solve problems.</h2>
+<h2 align="left">Hi 👋! Myself N.VIPIN PRASAD who loves DSA,Web Dev, Upcoming SDE and loves to solve problems.</h2>
 
 ###
 
