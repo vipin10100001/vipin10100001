@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently a Final Year B.Tech student interested for SDE roles.<br>Area of Interest include Front-End Web Development,DSA,OPEN-AI API etc.<br>Like to learn stacks by building projects.
 
-#MY PAGE-> [CLICK HERE TO KNOW ABOUT ME ](https://linktr.ee/vipinprasad1010001).
+MY PAGE-> [CLICK HERE TO KNOW ABOUT ME ](https://linktr.ee/vipinprasad1010001).
 
 
 ## 🌐 Socials:
