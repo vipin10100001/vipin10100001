@@ -6,6 +6,7 @@ I'm currently a Final Year B.Tech student interested for SDE intern and Full tim
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n-vipin-prasad/) 
+## 🌐 Coding Profiles:
 [![LeetCode](https://img.shields.io/badge/LeetCode-02569B?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/vipinprasad) 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vipinprasad1010001)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vipinprasad10101?)
