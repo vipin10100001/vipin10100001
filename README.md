@@ -1,7 +1,7 @@
  # 💫 About Me:
 A 2024 Graduate interested for SDE intern and Full time roles.<br>Area of Interest include Front-End Web Development,DSA,APIs etc.<br>Likes to learn stacks by building projects.
 
- [MY PORTFOLIO ](https://vipinprasad.vercel.app).
+ [MY PORTFOLIO ](https://nvipinprasadportfolio.onrender.com/).
 
 
 ## 🌐 Socials:
